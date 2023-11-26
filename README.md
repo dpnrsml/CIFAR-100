@@ -1,5 +1,4 @@
 # CIFAR-100
-# CIFAR-100 Transfer Learning with InceptionV3
 
 ## Overview
 This repository contains code for a deep learning model using transfer learning with InceptionV3 on the CIFAR-100 dataset. The model achieves a testing accuracy of 70.24%.
